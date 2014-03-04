@@ -1,5 +1,5 @@
 #implement data structure like list with integer sort.
-
+#!/usr/bin/python
 
 class myDataStructure(list):
     def __init__(self,s):
