@@ -1,5 +1,6 @@
 python-practice
 ===============
 
-* 1.implement list, learning basic list API
-* 2.implement dict, learning basic dict API
+* implement list, learning basic list API
+
+* implement dict, learning basic dict API
