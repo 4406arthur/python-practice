@@ -6,3 +6,5 @@ python-practice
 * implement dict, learning basic dict API
 
 ##Web application
+
+* what's CGI
