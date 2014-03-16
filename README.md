@@ -8,3 +8,4 @@ python-practice
 ##Web application
 >
 * what's CGI
+* easy socket test
