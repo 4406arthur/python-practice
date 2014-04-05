@@ -13,7 +13,7 @@ except socket.error, msg:
 
 print 'SOCKET Created'
 port=80
-host ='www.google.com'
+host ='www.yahoo.com'
 
 try:
     remote_ip = socket.gethostbyname(host)
